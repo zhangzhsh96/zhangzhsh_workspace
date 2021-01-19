@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ca394b2-7bb4-43ac-bf05-bb904f24b61a" name="Default Changelist" comment="feature:测试用例">
+      <change beforePath="$PROJECT_DIR$/1" beforeDir="false" afterPath="$PROJECT_DIR$/1" afterDir="false" />
+    </list>
+    <list id="2211e2f1-6ca0-424c-844d-30ab9572b5a1" name="pick1" comment="pick1">
+      <changelist_data name="zhangzhsh" email="897042405@qq.com" date="1610288813000" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/zhangzhsh96/zhangzhsh_workspace.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1msc2qk8cpN6BO2SxaRTAJtUCUH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca394b2-7bb4-43ac-bf05-bb904f24b61a" name="Default Changelist" comment="" />
+      <created>1610285534820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610285534820</updated>
+      <workItem from="1610285537410" duration="4396000" />
+      <workItem from="1611077251980" duration="1776000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1610286055681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610286055681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试">
+      <created>1610287031583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610287031583</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试2">
+      <created>1610287085772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610287085772</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ceshi1">
+      <created>1610287274284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610287274284</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ceshi2">
+      <created>1610287283886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610287283886</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pick1">
+      <created>1610288620967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610288620967</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pick2">
+      <created>1610288636092</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610288636093</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pick1">
+      <created>1610288813202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610288813202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pick2">
+      <created>1610288829717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610288829717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="pick1">
+      <created>1610289215255</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289215255</updated>
+    </task>
+    <task id="LOCAL-00011" summary="pick2">
+      <created>1610289241893</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289241893</updated>
+    </task>
+    <task id="LOCAL-00012" summary="pick1">
+      <created>1610289521670</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289521670</updated>
+    </task>
+    <task id="LOCAL-00013" summary="12 fist commit">
+      <created>1610289569610</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289569610</updated>
+    </task>
+    <task id="LOCAL-00014" summary="12 second commit dev">
+      <created>1610289765142</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289765142</updated>
+    </task>
+    <task id="LOCAL-00015" summary="12 second commit master">
+      <created>1610289831054</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289831054</updated>
+    </task>
+    <task id="LOCAL-00016" summary="12 second commit dev">
+      <created>1610289905878</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289905878</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2021-1-20">
+      <created>1611077582571</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611077582571</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feature:测试用例">
+      <created>1611078051439</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611078051439</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master2" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dev" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master2" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <MESSAGE value="测试2" />
+    <MESSAGE value="ceshi1" />
+    <MESSAGE value="ceshi2" />
+    <MESSAGE value="pick2" />
+    <MESSAGE value="pick1" />
+    <MESSAGE value="12 fist commit" />
+    <MESSAGE value="12 second commit master" />
+    <MESSAGE value="12 second commit dev" />
+    <MESSAGE value="2021-1-20" />
+    <MESSAGE value="feature:测试用例" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature:测试用例" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610289550853">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="470" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.920@0.0.1440.920" timestamp="1610289550853" />
+    <state x="332" y="47" key="CommitChangelistDialog2" timestamp="1610289905405">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="332" y="47" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1610289905405" />
+    <state x="93" y="93" width="1255" height="735" key="DiffContextDialog" timestamp="1611077989264">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="93" y="93" width="1255" height="735" key="DiffContextDialog/0.0.1440.920@0.0.1440.920" timestamp="1611077989264" />
+    <state x="49" y="128" key="MergeDialog" timestamp="1611078854174">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="49" y="128" key="MergeDialog/0.0.1440.920@0.0.1440.920" timestamp="1611078854174" />
+    <state x="357" y="221" key="MultipleFileMergeDialog" timestamp="1611078854195">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="357" y="221" key="MultipleFileMergeDialog/0.0.1440.920@0.0.1440.920" timestamp="1611078854195" />
+    <state x="313" y="194" key="Vcs.Push.Dialog.v2" timestamp="1611078944012">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="194" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1611078944012" />
+    <state x="422" y="195" key="VcsDiffUtil.ChangesDialog" timestamp="1611077686379">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="422" y="195" key="VcsDiffUtil.ChangesDialog/0.0.1440.920@0.0.1440.920" timestamp="1611077686379" />
+    <state x="484" y="173" key="git4idea.branch.GitSmartOperationDialog" timestamp="1610289134880">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="484" y="173" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.920@0.0.1440.920" timestamp="1610289134880" />
+    <state x="516" y="321" key="git4idea.rebase.GitRebaseDialog" timestamp="1611077642083">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="516" y="321" key="git4idea.rebase.GitRebaseDialog/0.0.1440.920@0.0.1440.920" timestamp="1611077642083" />
+    <state x="588" y="373" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1611078277991">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="588" y="373" key="git4idea.rebase.GitUnstructuredEditor/0.0.1440.920@0.0.1440.920" timestamp="1611078277991" />
+  </component>
+</project>

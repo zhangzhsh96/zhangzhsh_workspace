@@ -1,0 +1,15 @@
+Index: test/test
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>11111222222pick2\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test/test	(revision 244b218ee44fb583e5cb39ad9afa3e0b3771089f)
++++ test/test	(date 1610289112870)
+@@ -1,1 +1,5 @@
++<<<<<<< HEAD
+ 11111222222pick2
++=======
++11111222222pick1
++>>>>>>> fb52f95 (pick1)
